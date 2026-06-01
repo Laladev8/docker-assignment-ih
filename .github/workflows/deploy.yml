@@ -1,4 +1,4 @@
-name: Deploy 3 Tier App to Azure VM
+name: Deploy 3 Tier App to Azure  VM
 
 on:
   push:
